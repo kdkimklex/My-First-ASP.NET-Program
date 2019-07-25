@@ -1,0 +1,7 @@
+C:\Users\Kanchi\source\repos\MyFirstTry\bin\Debug\MyFirstTry.exe.config
+C:\Users\Kanchi\source\repos\MyFirstTry\bin\Debug\MyFirstTry.exe
+C:\Users\Kanchi\source\repos\MyFirstTry\bin\Debug\MyFirstTry.pdb
+C:\Users\Kanchi\source\repos\MyFirstTry\obj\Debug\MyFirstTry.csprojAssemblyReference.cache
+C:\Users\Kanchi\source\repos\MyFirstTry\obj\Debug\MyFirstTry.csproj.CoreCompileInputs.cache
+C:\Users\Kanchi\source\repos\MyFirstTry\obj\Debug\MyFirstTry.exe
+C:\Users\Kanchi\source\repos\MyFirstTry\obj\Debug\MyFirstTry.pdb
